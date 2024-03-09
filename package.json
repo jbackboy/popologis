@@ -1,0 +1,24 @@
+{
+  "name": "popologis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jbackboy/popologis.git"
+  },
+  "author": "jbackboy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jbackboy/popologis/issues"
+  },
+  "homepage": "https://github.com/jbackboy/popologis#readme",
+  "dependencies": {
+    "tea-crow": "^1.0.0",
+    "tea-decanto": "^1.0.0",
+    "tea-terbaik": "^1.0.0"
+  }
+}
